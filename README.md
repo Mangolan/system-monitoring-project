@@ -25,7 +25,7 @@ The system generates structured reports and detects potential issues.
 
 ## 3. How to Run
 
-```bash
+
 pip install -r requirements.txt
 python main.py
 
@@ -37,7 +37,7 @@ After running the program, the following output files are generated:
 
 Example console output:
 
-```text
+
 === System Check Summary ===
 Check time: 2026-03-25 22:12:32
 Overall status: NORMAL
